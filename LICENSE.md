@@ -1,4 +1,4 @@
-# 
+# best MEV sniper bot | volume-spike-detection + priority-gas-auctions is the best MEV sniper bot, featuring volume-spike-detection and priority-gas-auctions. Fast, smart, and
 
 
 
